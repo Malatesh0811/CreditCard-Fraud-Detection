@@ -15,8 +15,8 @@ The dataset used is a publicly available **Credit Card Fraud Detection** dataset
 - **284,807 transactions**
 - **30 numerical features** (including PCA-transformed features)
 - **2 classes**:
-  - **0** → Legitimate transactions
-  - **1** → Fraudulent transactions
+  → Legitimate transactions
+  → Fraudulent transactions
 - The dataset is highly imbalanced, with only **0.17% fraudulent transactions**.
 
 ## Technologies Used
@@ -24,7 +24,7 @@ The dataset used is a publicly available **Credit Card Fraud Detection** dataset
 - Pandas & NumPy (Data Processing)
 - Matplotlib & Seaborn (Data Visualization)
 - Scikit-learn (Machine Learning Models)
-- Imbalanced-learn (Handling Imbalanced Data)
+
 
 ## Model Training
 Several machine learning models were implemented and evaluated, including:
